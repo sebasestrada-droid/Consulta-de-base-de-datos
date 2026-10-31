@@ -3,7 +3,7 @@ ShiverSale – Consultas SQL con Oracle
 
 Descripción
 
-Proyecto académico desarrollado para Duoc UC, correspondiente a la actividad de la Semana 2: Creando consultas utilizando funciones SQL.
+
 
 El proyecto consiste en desarrollar consultas SQL para la empresa ficticia ShiverSale, dedicada a la venta de calzado, utilizando Oracle SQL Developer para obtener información relevante mediante funciones SQL y expresiones condicionales.
 
